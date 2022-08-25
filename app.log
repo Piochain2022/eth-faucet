@@ -1,0 +1,12 @@
+nohup: appending output to ‘nohup.out’
+time="2022-08-12T06:47:55Z" level=info msg="Starting http server 7080"
+time="2022-08-12T10:19:20Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-12T10:19:25Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-12T10:28:13Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-12T10:52:20Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-12T10:52:33Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-22T08:04:03Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-22T12:36:00Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-22T12:36:02Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-22T12:37:36Z" level=error msg="Failed to send transaction" error="invalid sender"
+time="2022-08-22T12:40:47Z" level=error msg="Failed to send transaction" error="invalid sender"
